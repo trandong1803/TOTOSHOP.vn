@@ -1712,6 +1712,7 @@ html::-webkit-scrollbar-thumb{
     overflow: hidden;
     position: relative;
     cursor: pointer;
+    background-color: #fff;
 }
 .product-sp-img-item:hover{
     border: 1px solid red;
